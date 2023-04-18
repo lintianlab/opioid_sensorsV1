@@ -1,0 +1,1 @@
+Ff was 2 and dilate was 5 at stack 20. Start before ligand is 1 and end before ligand is 14

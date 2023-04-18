@@ -1,0 +1,4 @@
+# Jalview Launch File
+# Please install the Jalview Desktop and then try to open this file again
+jalview.apparg=-open
+jalview.apparg=http://www.ebi.ac.uk/Tools/services/rest/clustalo/result/clustalo-I20230118-203135-0454-62953043-p1m/aln-clustal_num

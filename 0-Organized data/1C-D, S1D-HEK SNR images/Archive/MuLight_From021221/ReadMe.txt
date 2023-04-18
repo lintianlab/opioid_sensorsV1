@@ -1,0 +1,1 @@
+Ff was 1.5 and dilate was 5 at stack 20. Start before ligand is 1 and end before ligand is 14. I used Nikki's timeconffull_exported.m script to generate heatmaps. I imaged this on the Zeiss confocal

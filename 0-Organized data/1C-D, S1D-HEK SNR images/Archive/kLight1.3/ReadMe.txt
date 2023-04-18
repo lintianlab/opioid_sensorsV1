@@ -1,0 +1,1 @@
+Canny, ff 1.5 and dilate 5 at stack 55. Start before ligand is 1 and end before ligand is 49. I used Nikki's timeconffull_exported.m script to generate heatmaps. I imaged this on the Zeiss confocal
